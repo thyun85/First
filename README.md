@@ -2,4 +2,4 @@
 
 연습
 
-<img src="Penguin.jpg">
+<img src="Penguins.jpg">
